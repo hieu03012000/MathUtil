@@ -10,6 +10,7 @@ A part of project MathUtil in semerter 4 FPTU HCMC
 
 ## Contact me via
 [GitHub](https://github.com/hieu03012000)
+[Email](hieu03012000@gmail.com)
 [Facebook](https://fb.com)
 
 ###hieuntse140882
